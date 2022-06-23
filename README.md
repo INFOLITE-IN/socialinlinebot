@@ -1,2 +1,49 @@
-# SOCIAL-INLINE-GAME-BOT
-𝙰 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚋𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚒𝚗𝚐 𝚐𝚊𝚖𝚎𝚜 𝚝𝚑𝚊𝚝 𝚌𝚊𝚗 𝚋𝚎 𝚙𝚕𝚊𝚢𝚎𝚍 𝚒𝚗 𝚊𝚗𝚢 𝚌𝚑𝚊𝚝 𝚟𝚒𝚊 𝚒𝚗𝚕𝚒𝚗𝚎 𝚔𝚎𝚢𝚋𝚘𝚊𝚛𝚍𝚜.    ᴄʀᴇᴀᴛᴇᴅ ʙʏ : https://t.me/social_mechanic_1997     
+# SOCIAL INLINE GAME BOT
+<IMG src="https://telegra.ph/file/b89ae19627f5395468182.png">
+
+[![Build Status](https://travis-ci.org/jacklul/inlinegamesbot.svg?branch=master)](https://travis-ci.org/jacklul/inlinegamesbot) [![License](https://img.shields.io/github/license/jacklul/inlinegamesbot.svg)](https://github.com/jacklul/inlinegamesbot/blob/master/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-%40inlinegamesbot-blue.svg)](https://telegram.me/SOCIAL_GAME_BOT)
+
+A Telegram bot that provides real-time multiplayer games that can be played in any chat.
+
+ [BOT-SUPPORT](https://telegram.me/Technology_corner_1).
+
+#### Currently available games:
+
+- Tic-Tac-Toe
+- Tic-Tac-Four ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
+- Elephant XO ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
+- Connect Four
+- Rock-Paper-Scissors
+- Rock-Paper-Scissors-Lizard-Spock ([SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-NRD))
+- Russian Roulette
+- Checkers
+- Pool Checkers
+
+
+### Support & Updates 🎑
+<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+## Deploying
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-INLINE-GAME-BOT)
+
+Assuming everything was entered correctly the deploy process should run the following commands automatically and your bot should be instantly working:
+- `php bin/console install` - install database schema
+- `php bin/console set` - set the webhook
+
+If it doesn't you will have to open your app's console and run them manually.
+
+If you have verified Heroku account you will also want to add **Heroku Scheduler** addon and set up a hourly task to run the following command to clean up expired games from the database:
+- `php bin/console cron`
+
+## Note on translations
+
+Translations support is implemented but it is not used mainly because translated text would be displayed to both players - this could be problematic in "gaming" groups - people setting language that other player can't understand!
+
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md) for more information.
+
+## License
+
+See [LICENSE](LICENSE).
