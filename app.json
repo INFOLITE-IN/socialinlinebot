@@ -1,0 +1,37 @@
+{
+  "name": "SOCIAL-INLINE-GAME-BOT",
+  "description": "A Telegram bot providing games that can be played in any chat.",
+  "repository": "https://github.com/SOCIAL-MECHANIC-TM-NRD/SOCIAL-INLINE-GAME-BOT",
+  "logo": "https://telegra.ph/file/b89ae19627f5395468182.png",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-php"
+    }
+  ],
+  "addons": [
+    "heroku-postgresql"
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot API token obtained from @BotFather",
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "Bot username (without '@' symbol)",
+      "value": ""
+    },
+    "BOT_WEBHOOK": {
+      "description": "Webhook URL (YOURAPPNAME must match app name entered earlier)",
+      "value": "https://YOURAPPNAME.herokuapp.com"
+    },
+    "BOT_SECRET": {
+      "description": "Secret variable used to secure the web hook",
+      "generator": "secret"
+    },
+    "BOT_ADMIN": {
+      "description": "Admin's Telegram ID",
+      "value": "",
+      "required": false
+    }
+  }
+}
