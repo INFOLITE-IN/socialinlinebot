@@ -1,7 +1,7 @@
 Contributing
 -------------
 
-First, [fork](https://github.com/jacklul/inlinegamesbot/fork) this repository, checkout it locally and then install project dependencies with Composer - `composer install`.
+First, [fork](https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-INLINE-GAME-BOT/fork) this repository, checkout it locally and then install project dependencies with Composer - `composer install`.
 
 Now make all your changes and test them.
 
