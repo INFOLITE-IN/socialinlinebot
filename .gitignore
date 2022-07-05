@@ -1,0 +1,13 @@
+# Composer
+/vendor/
+
+# Configuration files
+/config.php
+/.env*
+!/.env.example
+
+# Data directory
+/data/
+
+# Other
+/language/*.mo
