@@ -11,4 +11,4 @@ The easiest way to test your changes is to run the bot with `getUpdates` method 
 
 Make sure your code is following PSR-2 coding standard - run [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) with `composer check-code` command.
 
-Now when all seems to be good push you changes to a new branch in your fork and then [create a pull request](https://github.com/jacklul/inlinegamesbot/compare) explaining all the changes.
+Now when all seems to be good push you changes to a new branch in your fork and then [create a pull request](https://github.com/SOCIAL-MECHANIC-1997/SOCIAL-INLINE-GAME-BOT/compare) explaining all the changes.
