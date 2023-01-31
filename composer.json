@@ -1,5 +1,5 @@
 {
-  "name": "jacklul/inlinegamesbot",
+  "name": "kaviyarasan-1997/socialinlinebot",
   "type": "project",
   "description": "A Telegram bot providing games that can be played in any chat.",
   "license": "AGPL-3.0",
@@ -10,9 +10,9 @@
   ],
   "authors": [
     {
-      "name": "Jack'lul",
-      "email": "jacklulcat@gmail.com",
-      "homepage": "https://jacklul.github.io",
+      "name": "kaviyarasan",
+      "email": "kaviyarasan1997ceo@gmail.com",
+      "homepage": "https://kaviyarasan-1997.github.io/biodata/",
       "role": "Developer"
     }
   ],
