@@ -1,8 +1,8 @@
 <?php
 /**
- * Inline Games - Telegram Bot (@inlinegamesbot)
+ * Inline Games - Telegram Bot (@socialinlinebot)
  *
- * (c) 2016-2021 Jack'lul <jacklulcat@gmail.com>
+ * (c) 2016-2021 kaviyarasan <kaviyarasan1997ceo@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
