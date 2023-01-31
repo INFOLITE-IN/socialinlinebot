@@ -6,15 +6,18 @@ You can see the bot in action by messaging [socialinlinebot](https://telegram.me
 
 #### Currently available games:
 
+<Details>
+<Summary> available games </summary>
 - Tic-Tac-Toe
 - Tic-Tac-Four 
 - Elephant XO 
 - Connect Four
 - Rock-Paper-Scissors
-- Rock-Paper-Scissors
+- Rock-Paper-Scissors-Lizard-Spock
 - Russian Roulette
 - Checkers
 - Pool Checkers
+</Details>
 
 ## Deploying
 
