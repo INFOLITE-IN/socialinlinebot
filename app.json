@@ -2,7 +2,7 @@
   "name": "socialinlinebot",
   "description": "A Telegram bot providing games that can be played in any chat.",
   "repository": "https://github.com/kaviyarasan-1997/socialinlinebot",
-  "logo": "https://telegra.ph/file/b89ae19627f5395468182.png",
+  "logo": "https://telegra.ph/file/1ab45f854368796dd0cbe.jpg",
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-php"
