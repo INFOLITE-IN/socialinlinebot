@@ -9,7 +9,7 @@
         {
             "name": "gettext/gettext",
             "version": "v4.8.4",
-            "source": {
+             "source": {
                 "type": "git",
                 "url": "https://github.com/php-gettext/Gettext.git",
                 "reference": "58bc0f7f37e78efb0f9758f93d4a0f669f0f84a1"
