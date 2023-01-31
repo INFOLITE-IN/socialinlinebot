@@ -1,8 +1,8 @@
 <?php
 /**
- * Inline Games - Telegram Bot (@SOCIAL_GAME_BOT)
+ * Inline Games - Telegram Bot (@socialinlinebot)
  *
- * (c) 2016-2021 Social-mechanic <@social mechanic>
+ * (c) 2016-2021 kaviyarasan <@socialinlinebot>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
