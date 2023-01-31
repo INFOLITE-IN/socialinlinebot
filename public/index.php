@@ -1,8 +1,8 @@
 <?php
 /**
- * Inline Games - Telegram Bot (@SOCIAL_GAME_BOT)
+ * Inline Games - Telegram Bot (@socialinlinebot)
  *
- * (c) 2016-2021 social-mechanic <@social mechanic>
+ * (c) 2016-2021 kaviyarasan <@socialinlinebot>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -23,5 +23,5 @@ if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] === 'POST') 
         // Prevent Telegram from retrying
     }
 } else {
-    header("Location: https://github.com/jacklul/inlinegamesbot");    // Redirect non-POST requests to Github repository
+    header("Location: https://github.com/kaviyarasan-1997/socialinlinebot");    // Redirect non-POST requests to Github repository
 }
